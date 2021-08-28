@@ -35,6 +35,12 @@ input:focus {
     outline: none;
 }
 
+@media only screen and (max-device-width : 1000px) {
+.card {
+width:auto;
+}
+}
+
 .card {
     background-color: #05e623;
     background-image: linear-gradient(315deg, #e21313 0%, #04a2e0 100%);
@@ -91,8 +97,3 @@ input:focus {
     text-decoration: none;
 }
 
-@media only screen and (max-device-width : 1000px) {
-ta carte{
-zoom:30%;
-}
-}

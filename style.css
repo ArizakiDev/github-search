@@ -90,3 +90,9 @@ input:focus {
     margin-bottom: 0.5rem;
     text-decoration: none;
 }
+
+@media only screen and (max-device-width : 1000px) {
+ta carte{
+zoom:30%;
+}
+}

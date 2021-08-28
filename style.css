@@ -38,6 +38,7 @@ input:focus {
 @media only screen and (max-device-width : 1000px) {
 body{
 width:auto;
+zoom:70%;
 }
 }
 

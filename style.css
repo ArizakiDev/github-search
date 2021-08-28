@@ -36,9 +36,9 @@ input:focus {
 }
 
 @media only screen and (max-device-width : 1000px) {
-.card {
+.card{
 width:auto;
-zoom:70%;
+zoom:50%;
 }
 }
 
